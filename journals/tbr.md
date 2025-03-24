@@ -4,6 +4,7 @@
 - [ ] [Computer Systems: A Programmer's Perspective - Bryant & O'Hallaron](http://csapp.cs.cmu.edu/3e/home.html)
 - [ ] The C Programming Language - K&R
 - [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [ ] [Data-Oriented Design and Avoiding the C++ Object-Oriented Programming Zimmer Frame](https://leighjohnston.wordpress.com/2018/08/27/data-oriented-design-and-avoiding-the-c-object-oriented-programming-zimmer-frame/)
 
 # Read
 - [x] [Data-Oriented Design - Richard Fabian](https://www.dataorienteddesign.com/dodbook/)
